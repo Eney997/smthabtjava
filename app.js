@@ -54,7 +54,7 @@
 
 
 
-
+                            //FUNCTIONS
 
 
 
@@ -173,5 +173,63 @@
 // let names = ["rene", "ketamini","xidze", "xazi","kaia", "ynosva",  ]
 // console.log(names [Math.floor(names.length / 2)]) //es roca shuas amotana ginda
 
+
+
+
+
+// let sequence = [1,2,3]
+// sequence.push(4)
+// sequence.push(5)          //methods about push amatebs ra bolo elementebs 
+// sequence.push(8)
+// console.log(sequence)
+                            // //es daaakonsolebs 123458
+                            // //mere es amoigebs bolos da rac darcheba imas amoagdebs console
+// console.log(sequence.pop())
+// console.log(sequence)
+
+//unshift tavshi / shift tavidan igebs / push boloshi amatebs/pop bolodan igebs
+
+                           
+
+
+
+
+
+                             // OBJECTS
+
+
+// let day1 = {
+//     sqeurrel:false,
+//     events: ["work","touched tree","pizza","running"],      //masividan elementis amogeba
+// };
+// console.log(day1.events[2])
+
+
+// let descriptions = {
+//     work:"went to work",                      //ase xddeba mashin roca gvinda dashorebuli saxeli davarqvat dsma
+//     "touched tree": "touched a tree"
+// }
+// console.log(descriptions["touched tree"])
+
+
+// let anObject = {left:1, right:2};
+// console.log(anObject.left);
+// delete anObject.left;            //delete washlis objects ase 
+// console.log(anObject.left)
+// console.log(anObject);
+// console.log("left"in anObject);     //itoshi in amowmebs esatu is obieqti tu gvaq shignit     
+// console.log("right"in anObject);
+
+
+
+
+// let obj = {x: 0, y: 0,z:2}
+// console.log(Object.keys(obj)) // amas amoaqvs xyz
+// console.log(Object.values(obj)) // amas amoaqvs 002
+// console.log(Object.entries(obj)) // amas amoaqvs yvelaferi 
+
+
+// masivis mutacia shegvidzlia imitorom kompleqsuria 
+// primitiuli data struqturebis cvlileba ki ara
 
 
